@@ -1,27 +1,27 @@
 # Salary Management Web Application
 
-## O projekcie
+## About the Project
 
-Projekt Salary Management Web Application to aplikacja internetowa służąca do zarządzania wynagrodzeniami. Zbudowana przy użyciu Gradle i Java 21 w środowisku IntelliJ IDEA, zapewnia funkcjonalności umożliwiające efektywne zarządzanie danymi o wynagrodzeniach pracowników.
+The Salary Management Web Application is a web application designed for managing salaries. Built using Gradle and Java 21 in IntelliJ IDEA, it provides functionalities to efficiently manage employee salary data.
 
-## Funkcjonalność programu
+## Program Functionality
 
-Na starcie programu użytkownik ma dostęp do głównych funkcji aplikacji, takich jak:
-- Przeglądanie i zarządzanie listą pracowników
-- Dodawanie, edytowanie i usuwanie rekordów wynagrodzeń
-- Generowanie raportów dotyczących wynagrodzeń
+Upon starting the program, users have access to the main features of the application, including:
+- Viewing and managing the employee list
+- Adding, editing, and deleting salary records
+- Generating salary reports
 
-Dokładny zestaw funkcji będzie rozwijany w zależności od wymagań użytkowników i potrzeb biznesowych.
+The exact set of features will be developed based on user requirements and business needs.
 
-## Testy
+## Testing
 
-Jedną z kluczowych części projektu są testy. Zostały one stworzone dla najważniejszych metod, aby zapewnić wysoką jakość i niezawodność aplikacji. Testy obejmują zarówno jednostkowe, jak i integracyjne aspekty funkcjonalności aplikacji.
+One of the key aspects of the project is testing. Tests have been created for the most important methods to ensure high quality and reliability of the application. The tests cover both unit and integration aspects of the application's functionality.
 
-## Zrobiono za pomocą
+## Built With
 
-- **Gradle**: Narzędzie do automatyzacji budowy projektu i zarządzania zależnościami.
-- **Spring Web**: Framework do tworzenia aplikacji internetowych w Javie.
-- **Java**: Język programowania użyty do stworzenia aplikacji.
-- **JetBrains IntelliJ IDEA**: IDE używane do rozwoju projektu.
+- **Gradle**: A tool for automating project builds and managing dependencies.
+- **Spring Web**: A framework for creating web applications in Java.
+- **Java**: The programming language used to build the application.
+- **JetBrains IntelliJ IDEA**: The IDE used for project development.
 
 ### Made by Oleksandr Radionenko
