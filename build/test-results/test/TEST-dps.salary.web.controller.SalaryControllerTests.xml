@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dps.salary.web.controller.SalaryControllerTests" tests="5" skipped="0" failures="0" errors="0" timestamp="2024-08-29T11:27:30" hostname="LAPTOP" time="0.152">
+  <properties/>
+  <testcase name="countMonthSalary_shouldReturnResultPageWithResult()" classname="dps.salary.web.controller.SalaryControllerTests" time="0.139"/>
+  <testcase name="addYearSalary_shouldAddSalaryAndReturnIndex()" classname="dps.salary.web.controller.SalaryControllerTests" time="0.003"/>
+  <testcase name="calculateSalaryOneMemberOneMonth_shouldReturnResultPageWithResult()" classname="dps.salary.web.controller.SalaryControllerTests" time="0.002"/>
+  <testcase name="index_shouldReturnIndexPage()" classname="dps.salary.web.controller.SalaryControllerTests" time="0.001"/>
+  <testcase name="printSalaries_shouldReturnResultPageWithResult()" classname="dps.salary.web.controller.SalaryControllerTests" time="0.002"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

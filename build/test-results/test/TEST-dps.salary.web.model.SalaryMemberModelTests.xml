@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="dps.salary.web.model.SalaryMemberModelTests" tests="8" skipped="0" failures="0" errors="0" timestamp="2024-08-29T11:27:30" hostname="LAPTOP" time="0.017">
+  <properties/>
+  <testcase name="addYearSalary_shouldConvertUahToZlAndStore()" classname="dps.salary.web.model.SalaryMemberModelTests" time="0.001"/>
+  <testcase name="testCountMonthSalary()" classname="dps.salary.web.model.SalaryMemberModelTests" time="0.003"/>
+  <testcase name="testCalculateSalaryOneMemberOneMonth()" classname="dps.salary.web.model.SalaryMemberModelTests" time="0.001"/>
+  <testcase name="testAddYearSalary()" classname="dps.salary.web.model.SalaryMemberModelTests" time="0.001"/>
+  <testcase name="testPrintSalaries()" classname="dps.salary.web.model.SalaryMemberModelTests" time="0.002"/>
+  <testcase name="addYearSalary_shouldStoreSalaryInZl()" classname="dps.salary.web.model.SalaryMemberModelTests" time="0.002"/>
+  <testcase name="calculateSalaryOneMemberOneMonth_shouldReturnCorrectCalculation()" classname="dps.salary.web.model.SalaryMemberModelTests" time="0.001"/>
+  <testcase name="countMonthSalary_shouldReturnCorrectMonthlySalaries()" classname="dps.salary.web.model.SalaryMemberModelTests" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
